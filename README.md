@@ -16,6 +16,7 @@
 
 ## 🚀 Sobre mim
 Sou desenvolvedor fullstack, minhas principais tecnologias são React e Node. Sou apaixonado por tecnologia e pelo universo e sua imensidão.
+
 `"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original." - Albert Einstein`
 
 
