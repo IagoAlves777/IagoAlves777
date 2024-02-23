@@ -3,10 +3,10 @@
 ###
 
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/iago-alves-2232b81b8/">
+  <a target="_blank" href="https://iagoalves-portifolio.herokuapp.com/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="26" alt="youtube logo"  />
   </a>
-  <a target="_blank" href="https://iagoalves-portifolio.herokuapp.com/">
+  <a target="_blank" href="https://www.linkedin.com/in/iago-alves-2232b81b8/">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   
